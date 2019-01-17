@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository that run on my GitHub
+# Doc Similarity By word2Vec 
+Data Floder contain word2vec model trained on wiki corpus (200 dimensions) and the list of stopword
